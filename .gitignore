@@ -1,0 +1,6 @@
+key
+backend/venv/*
+backend/bin/*
+backend/lib/*
+backend/pyvenv.cfg
+backend/include/*
