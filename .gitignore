@@ -1,2 +1,3 @@
 key
 backend/venv/*
+backend/bin/*
